@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="greenride-logo.png" width="200" height="200" alt="GreenRide Logo">
+<img src="greenride.png" width="200" height="200" alt="GreenRide Logo">
 
 <h1>🌱 GreenRide</h1>
 
