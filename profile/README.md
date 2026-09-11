@@ -12,7 +12,7 @@ alt="Typing SVG"
 <br>
 
 <img src="https://img.shields.io/badge/Flutter-Mobile_App-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-Backend-FFCA28?style=for-the-badge&logo=mysql&logoColor=black">
 <img src="https://img.shields.io/badge/GPS-Location-22C55E?style=for-the-badge">
 <img src="https://img.shields.io/badge/Google_Maps-Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white">
 
@@ -66,7 +66,7 @@ The application combines **GPS ride tracking, Green Index calculation, environme
 
 <br><br>
 
-**Flutter** • **Dart** • **laravel** • **mysql** • **microsoft azure**
+**Flutter** • **Dart** • **laravel** • **MySQL** • **microsoft azure**
 
 **GPS / Location Services** • **Google Maps API**
 
