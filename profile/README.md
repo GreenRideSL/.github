@@ -36,7 +36,7 @@ The application combines **GPS ride tracking, Green Index calculation, environme
 - ✅ **Green Index & Environmental Impact**
 - ✅ **Ride History & Cycling Statistics**
 - ✅ **Green Goals, Streaks, Points & Achievements**
-- ✅ **Interactive Cycling & Rental Map**
+- ✅ **Interactive Cycling Map**
 - ✅ **Bicycle Rental Providers & Listings**
 - ✅ **Bicycle Reservation System**
 - ✅ **Provider & Admin Management**
@@ -62,11 +62,11 @@ The application combines **GPS ride tracking, Green Index calculation, environme
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,mysql,microsoft azure,git,github" />
 
 <br><br>
 
-**Flutter** • **Dart** • **Firebase** • **Cloud Firestore**
+**Flutter** • **Dart** • **laravel** • **mysql** • **microsoft azure**
 
 **GPS / Location Services** • **Google Maps API**
 
