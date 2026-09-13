@@ -87,8 +87,8 @@ This project is organized into three repositories:
 | Repository | Purpose |
 |---|---|
 | 📚 **greenride-documentation** | Project proposal, diagrams, requirements and documentation |
-| 📱 **greenride-frontend** | GreenRide mobile application built with Flutter |
-| ⚙️ **greenride-backend** | Backend services, database and application logic |
+| 📱 **greenride_app** | GreenRide mobile application built with Flutter |
+| ⚙️ **greenride-api** | Backend services, database and application logic |
 
 ---
 
